@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 1A</string>
+    <string name="action_settings">Settings</string>
+    <string name="outputTextView">TextView</string>
+    <string name="increment">increment</string>
+    <string name="decrement">decrement</string>
+    <string name="_50">50</string>
+</resources>
